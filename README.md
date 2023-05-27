@@ -92,4 +92,4 @@ Contributions to this repository are welcome! If you have any code examples, imp
 
 ---
 
-We hope you find this Data Science Repository helpful in your data science endeavors. Happy coding and exploring the exciting world of data science!
+I hope you find this Data Science Repository helpful in your data science endeavors. Happy coding and exploring the exciting world of data science!
