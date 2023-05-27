@@ -27,7 +27,7 @@ To use the code examples in this repository, follow these steps:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/data-science-repo.git
+   git clone https://github.com/Tanzir11/Data-Science.git
    ```
 
 2. Install the required dependencies (see the next section for details).
