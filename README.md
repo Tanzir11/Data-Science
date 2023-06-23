@@ -9,7 +9,7 @@ Welcome to the Data Science Repository! This repository is designed to provide y
 3. [Dependencies](#dependencies)
 4. [Usage](#usage)
 5. [Code Examples](#code-examples)
-   - [1. Numpy](#numpy)(Coming soon)
+   - [1. Numpy](#numpy)
    - [2. Pandas](#pandas)(Coming soon)
    - [3. Machine Learning](#machine-learning) (Coming Soon)
    - [4. Deep Learning](#deep-learning) (Coming Soon)
