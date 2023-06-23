@@ -14,6 +14,7 @@ Welcome to the Data Science Repository! This repository is designed to provide y
    - [3. Machine Learning](#machine-learning) (Coming Soon)
    - [4. Deep Learning](#deep-learning) (Coming Soon)
    - [5. Computer Vision](#computer-vision) (Coming Soon)
+   - [6. Natural Language Processing](#NLP)(Coming Soon)
 6. [Contributing](#contributing)
 
 ## Introduction
